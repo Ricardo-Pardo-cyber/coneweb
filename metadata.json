@@ -1,0 +1,6 @@
+{
+  "name": "Conexão Web",
+  "description": "Soluções Digitais para Empresas - Catálogo Digital Profissional de Landing Pages, Sistemas, Dashboards e Músicas/Jingles",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
